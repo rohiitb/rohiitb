@@ -4,7 +4,7 @@
 
 ### Hello!👋
 
-🎓 I am a Robotics Software Engineer at Terran Robotics <br>
+🎓 I am a Senior Robotics Software Engineer at Terran Robotics <br>
 👀 My interests are inclined towards Robotics, Computer Vision, Deep Learning, and Embedded Systems <br>
 📬 How to reach me : bhikulerohit@gmail.com <br>
 
