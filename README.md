@@ -11,6 +11,9 @@
 ### 🌱 Education  
 🔹 **MS in Mechanical Engineering (Robotics)** from [**University of Pennsylvania**](https://www.grasp.upenn.edu/) (August 2021 - May 2023)  
 🔹 **B. Tech in Mechanical Engineering** from [**Vishwakarma Institute of Technology, Pune**](https://www.vit.edu/) (August 2016 - October 2020)   
+<br>
+![](https://komarev.com/ghpvc/?username=rohiitb&color=brightgreen&style=flat)
+
 
 ## 🔗 Connect with me:
 <p align="left">
